@@ -1,0 +1,15 @@
+C:\Users\Sena\Desktop\PoliformismoC#\obj\Debug\net6.0\PoliformismoC#.csproj.AssemblyReference.cache
+C:\Users\Sena\Desktop\PoliformismoC#\obj\Debug\net6.0\PoliformismoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Desktop\PoliformismoC#\obj\Debug\net6.0\PoliformismoC#.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\PoliformismoC#\obj\Debug\net6.0\PoliformismoC#.AssemblyInfo.cs
+C:\Users\Sena\Desktop\PoliformismoC#\obj\Debug\net6.0\PoliformismoC#.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\PoliformismoC#\bin\Debug\net6.0\PoliformismoC#.exe
+C:\Users\Sena\Desktop\PoliformismoC#\bin\Debug\net6.0\PoliformismoC#.deps.json
+C:\Users\Sena\Desktop\PoliformismoC#\bin\Debug\net6.0\PoliformismoC#.runtimeconfig.json
+C:\Users\Sena\Desktop\PoliformismoC#\bin\Debug\net6.0\PoliformismoC#.dll
+C:\Users\Sena\Desktop\PoliformismoC#\bin\Debug\net6.0\PoliformismoC#.pdb
+C:\Users\Sena\Desktop\PoliformismoC#\obj\Debug\net6.0\PoliformismoC#.dll
+C:\Users\Sena\Desktop\PoliformismoC#\obj\Debug\net6.0\refint\PoliformismoC#.dll
+C:\Users\Sena\Desktop\PoliformismoC#\obj\Debug\net6.0\PoliformismoC#.pdb
+C:\Users\Sena\Desktop\PoliformismoC#\obj\Debug\net6.0\PoliformismoC#.genruntimeconfig.cache
+C:\Users\Sena\Desktop\PoliformismoC#\obj\Debug\net6.0\ref\PoliformismoC#.dll
